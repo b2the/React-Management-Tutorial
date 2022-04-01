@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-th
+본 게시물은 고객관리 매니지먼트 프로그램입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
